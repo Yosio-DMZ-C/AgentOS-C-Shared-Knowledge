@@ -1,24 +1,79 @@
 {
-  "schema_version": "0.1.0",
-  "catalog_version": "0.1.0",
+  "schema_version": "0.2.0",
+  "catalog_version": "0.2.0",
   "updated_at": "2026-10-09",
   "status": "design_only",
   "distribution_ready": false,
-  "license_status": "pending",
+  "license_status": "adopted",
   "repository": "https://github.com/Yosio-DMZ-C/AgentOS-C-Shared-Knowledge",
   "domains": [
-    {"id": "parenting-education", "title": "子育て・教育", "phase": "initial", "status": "planned"},
-    {"id": "health-navigation", "title": "健康・医療ナビゲーション", "phase": "initial", "status": "planned"},
-    {"id": "mental-health", "title": "メンタルヘルス", "phase": "initial", "status": "planned"},
-    {"id": "money-housing", "title": "家計・投資・住宅", "phase": "initial", "status": "planned"},
-    {"id": "disaster-accident", "title": "災害・事故", "phase": "initial", "status": "planned"},
-    {"id": "contracts-consumer", "title": "契約・法律・消費者", "phase": "initial", "status": "planned"},
-    {"id": "digital-safety", "title": "デジタル安全", "phase": "initial", "status": "planned"},
-    {"id": "caregiving-aging", "title": "介護・加齢・生活支援", "phase": "extension", "status": "proposed"},
-    {"id": "work-learning", "title": "仕事・学び直し", "phase": "extension", "status": "proposed"},
-    {"id": "daily-living", "title": "生活基盤・人間関係", "phase": "extension", "status": "proposed"}
+    {
+      "id": "parenting-education",
+      "title": "子育て・教育",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "health-navigation",
+      "title": "健康・医療ナビゲーション",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "mental-health",
+      "title": "メンタルヘルス",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "money-housing",
+      "title": "家計・投資・住宅",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "disaster-accident",
+      "title": "災害・事故",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "contracts-consumer",
+      "title": "契約・法律・消費者",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "digital-safety",
+      "title": "デジタル安全",
+      "phase": "initial",
+      "status": "planned"
+    },
+    {
+      "id": "caregiving-aging",
+      "title": "介護・加齢・生活支援",
+      "phase": "extension",
+      "status": "proposed"
+    },
+    {
+      "id": "work-learning",
+      "title": "仕事・学び直し",
+      "phase": "extension",
+      "status": "proposed"
+    },
+    {
+      "id": "daily-living",
+      "title": "生活基盤・人間関係",
+      "phase": "extension",
+      "status": "proposed"
+    }
   ],
   "items": [],
   "core": [],
-  "advisories": []
+  "advisories": [],
+  "license": "CC-BY-SA-4.0",
+  "supported_kinds": [
+    "claim_map",
+    "playbook"
+  ]
 }
