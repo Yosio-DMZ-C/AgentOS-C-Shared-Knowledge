@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "catalog_version": "0.2.0",
+  "catalog_version": "0.2.1",
   "updated_at": "2026-10-09",
   "status": "design_only",
   "distribution_ready": false,
@@ -64,6 +64,12 @@
     {
       "id": "daily-living",
       "title": "生活基盤・人間関係",
+      "phase": "extension",
+      "status": "proposed"
+    },
+    {
+      "id": "ai-information-management",
+      "title": "AI活用・情報管理の自動化",
       "phase": "extension",
       "status": "proposed"
     }
