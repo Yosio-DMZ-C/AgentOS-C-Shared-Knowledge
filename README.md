@@ -38,6 +38,8 @@ Coreは別の知識コピーではなく、共有知から選ぶ小さな標準�
 4. [本体からの参照契約](docs/CONSUMPTION.md)
 5. [次工程の制作計画](docs/ROADMAP.md)
 
+**AI活用・情報管理の自動化**については、公式の接続仕様や実際の制限事項を再利用し、一般利用者に検証作業を丸投げしないための[共有Skill案（Draft）](docs/AI_INFORMATION_MANAGEMENT_SKILL_PROPOSAL.md)を検討しています。**未実装・未審査**であり、Active Skill数には含めません。
+
 貢献する場合は [CONTRIBUTING](CONTRIBUTING.md)、制作時は [主張比較テンプレート](templates/CLAIM_MAP_TEMPLATE.md) を参照してください。行動推奨が必要な場合だけ別の [手順書テンプレート](templates/PLAYBOOK_TEMPLATE.md) を使います。[機械可読カタログ](catalog.json) は現段階では空です。
 
 ## 実装・権利の境界
